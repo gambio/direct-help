@@ -1,0 +1,38 @@
+{
+    "name": "direct-help",
+    "title": {
+        "en": "Direct-Help",
+        "de": "Direct-Help"
+    },
+    "description": {
+        "en": "<p>Helps directly.</p>",
+        "de": "<p>Hilft direkt. Wie Bullrich-Salz bei Sodbrennen.</p>"
+    },
+    "requirements": {
+        "needed": {
+            "shop": {
+                "shopVersions": [
+	                ">4.9"
+                ]
+            },
+            "server": {
+                "phpVersions": [],
+                "mysqlVersions": []
+            },
+            "themes": [],
+            "receiptFiles": []
+        },
+        "hidden": {
+            "shop": {
+                "shopVersions": []
+            },
+            "server": {
+                "phpVersions": [],
+                "mysqlVersions": []
+            },
+            "themes": [],
+            "receiptFiles": [
+            ]
+        }
+    }
+}
